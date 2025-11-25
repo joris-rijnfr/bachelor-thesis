@@ -6,8 +6,8 @@ This is the code and data from my bachelor's thesis. Look at [Database Dumps](#d
 ## Database Dumps
 
 If you want to import the data into a database instead of running the scripts yourself, you can download a database dump and restore the data into your own database. Both the filtered and unfiltered databases are available. You can download a compressed dump from the following links. (Files were too big to be in the repository on GitHub.)
-- Unfiltered: https://files.george-alexander.dev/vulnurl.dump (~314 MB)
-- Filtered: https://files.george-alexander.dev/vulnurl_filtered.dump (~109 MB)
+- Unfiltered: https://files.rijnfrank.dev/vulnurl.dump (~314 MB)
+- Filtered: https://files.rijnfrank.dev/vulnurl_filtered.dump (~109 MB)
 
 After you have downloaded a dump, you can restore the database with the following steps.
 
